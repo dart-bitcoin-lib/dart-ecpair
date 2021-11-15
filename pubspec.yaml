@@ -10,8 +10,8 @@ environment:
 
 dependencies:
   convert: ^3.0.1
-  dart_bip32: ^2.0.0
-  dart_wif: ^2.0.0
+  dart_bip32: ^2.0.1
+  dart_wif: ^2.1.0
   pointycastle: ^3.4.0
 
 dev_dependencies:
