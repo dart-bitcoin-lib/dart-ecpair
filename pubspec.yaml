@@ -1,5 +1,5 @@
 name: dart_ecpair
-description: The ECPair module for dart_bitcoin
+description: The Elliptic Curve Key Pair (ECPair) module for dart_bitcoin
 version: 1.0.1
 homepage: https://github.com/dart-bitcoin-lib/dart-ecpair
 repository: https://github.com/dart-bitcoin-lib/dart-ecpair
